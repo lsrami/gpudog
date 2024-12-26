@@ -29,14 +29,14 @@ python -m pip install -u gpudog
 从 GitHub 上安装最新版本 (**推荐**):
 
 ```bash
-python -m pip install git+https://github.com/lsrami/gpu_dog.git
+python -m pip install git+https://github.com/lsrami/gpudog.git
 ```
 
 或克隆该仓库手动安装:
 
 ```bash
-git clone --depth=1 https://github.com/lsrami/gpu_dog.git
-cd gpu_dog
+git clone --depth=1 https://github.com/lsrami/gpudog.git
+cd gpudog
 python -m pip install -e ./
 ```
 
